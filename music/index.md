@@ -1,5 +1,5 @@
 # Music
 
-# Lyrics
+## Lyrics
 
 - [Life is Short](./life-is-short.md)
